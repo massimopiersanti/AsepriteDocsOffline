@@ -1,2 +1,2 @@
 # AsepriteDocsOffline
-Read Aseprite documentation without internt
+Read Aseprite documentation without internet
